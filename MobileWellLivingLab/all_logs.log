@@ -1,0 +1,20 @@
+2019-11-18 12:06:38,171 - WLL01437 - INFO - 
+
+ *** Logger configured! Starting mWLL *** 
+
+
+2019-11-18 12:06:38,174 - WLL01437 - INFO - USRanger-Entered USRanger, setting up storage
+2019-11-18 12:06:38,175 - WLL01437 - INFO - USRanger.Storages.SensorStorage-init LowFrequencyStorage for USRanger, initializing variables
+2019-11-18 12:06:38,175 - WLL01437 - INFO - USRanger.PushToCloud-Initializing push to cloud
+2019-11-18 12:06:38,177 - WLL01437 - INFO - USRanger.PushToCloud-Cloud configuration read
+2019-11-18 12:06:38,178 - WLL01437 - INFO - USRanger.Storages.SensorStorage-Storage initialization done for USRanger
+2019-11-18 12:06:38,178 - WLL01437 - INFO - USRanger-Initializing sensor
+2019-11-18 12:06:38,178 - WLL01437 - INFO - USRanger-Entered initialize_sensor
+2019-11-18 12:06:38,181 - WLL01437 - ERROR - USRanger-Traceback (most recent call last):
+  File "/home/wllFieldStudy/Documents/MobileWellLivingLab/Sensors/USRanger.py", line 31, in initialize_sensor
+    self.__sample_port = float(self._sensor_config["samplePort"])
+AttributeError: 'GroveUSRanger' object has no attribute '_sensor_config'
+
+2019-11-18 12:06:38,181 - WLL01437 - INFO - Started sensors!
+2019-11-18 12:30:18,996 - WLL01437 - INFO - Stop file has a yes! stopping everything
+2019-11-18 12:30:19,360 - WLL01437 - INFO - Stopping done! Exiting mWLL!

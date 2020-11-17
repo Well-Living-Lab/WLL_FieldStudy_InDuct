@@ -1,0 +1,12 @@
+{
+  "DeviceId": "WLL01437",
+  "Sensors": [
+    {
+      "SensorId": "USRanger",
+      "ClassName": "GroveUSRanger",
+      "ConfigLocation": "/Configuration/usranger.cfg"
+    } ],
+  "logfile": "/logs/all_logs.log",
+  "storage": "/data/",
+  "stopFile": "/Configuration/stop"
+}

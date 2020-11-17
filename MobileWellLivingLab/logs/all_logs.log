@@ -1,0 +1,1132 @@
+2020-03-17 16:05:22,287 - WLL01227 - INFO - 
+
+ *** Logger configured! Starting mWLL *** 
+
+
+2020-03-17 16:05:22,289 - WLL01227 - INFO - DuctRelayControl-Entered DuctRelayControl, setting up storage
+2020-03-17 16:05:22,290 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-init LowFrequencyStorage for DuctRelayControl, initializing variables
+2020-03-17 16:05:22,290 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Initializing push to cloud
+2020-03-17 16:05:22,291 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud configuration read
+2020-03-17 16:05:22,292 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Storage initialization done for DuctRelayControl
+2020-03-17 16:05:22,292 - WLL01227 - INFO - DuctRelayControl-Initializing sensor
+2020-03-17 16:05:22,293 - WLL01227 - INFO - DuctRelayControl-Entered initialize_sensor
+2020-03-17 16:05:22,295 - WLL01227 - INFO - DuctRelayControl-Entered start_sensor
+2020-03-17 16:05:22,296 - WLL01227 - INFO - DuctRelayControl-Starting sensor thread
+2020-03-17 16:05:22,297 - WLL01227 - INFO - DuctRelayControl-Entered extract value, keep_extracting=True
+2020-03-17 16:05:22,298 - WLL01227 - INFO - DuctRelayControl-Thread started
+2020-03-17 16:05:22,298 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 16:05:22,299 - WLL01227 - INFO - Started sensors!
+2020-03-17 16:05:22,299 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 16:05:25,304 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-17 16:05:30,325 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 16:05:58,901 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:05:58,902 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:05:59,276 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:05:59,277 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Found and successfully uploaded files for DuctRelayControl
+2020-03-17 16:05:59,278 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 16:15:34,352 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 16:15:34,705 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:15:34,707 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:15:39,741 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 16:16:00,163 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:16:00,164 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:16:00,198 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 16:25:35,298 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 16:25:35,300 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 16:25:35,304 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 16:25:35,686 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:25:35,687 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:25:40,720 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 16:26:01,114 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:26:01,116 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:26:01,143 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 16:35:36,152 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 16:35:36,560 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:35:36,562 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:35:41,601 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 16:36:01,962 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:36:01,963 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:36:01,990 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 16:45:36,992 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 16:45:36,993 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 16:45:36,994 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 16:45:37,399 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:45:37,400 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:45:42,432 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 16:46:02,855 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:46:02,857 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:46:02,890 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 16:55:37,991 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 16:55:38,413 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:55:38,414 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:55:43,446 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 16:56:03,856 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 16:56:03,857 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 16:56:03,885 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 17:05:38,912 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 17:05:38,913 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 17:05:38,914 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 17:05:39,284 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:05:39,286 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:05:44,323 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 17:06:04,722 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:06:04,724 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:06:04,762 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 17:15:39,792 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 17:15:40,190 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:15:40,191 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:15:45,229 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 17:16:05,636 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:16:05,638 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:16:05,668 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 17:25:40,769 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 17:25:40,770 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 17:25:40,771 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 17:25:41,168 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:25:41,169 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:25:46,203 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 17:26:06,645 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:26:06,646 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:26:06,676 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 17:35:41,777 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 17:35:42,164 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:35:42,165 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:35:47,201 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 17:36:07,601 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:36:07,603 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:36:07,636 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 17:45:42,737 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 17:45:42,738 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 17:45:42,739 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 17:45:43,149 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:45:43,150 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:45:48,190 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 17:46:08,568 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:46:08,570 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:46:08,607 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 17:55:43,632 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 17:55:43,970 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:55:43,971 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:55:49,007 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 17:56:09,382 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 17:56:09,384 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 17:56:09,412 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 18:05:44,513 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 18:05:44,514 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 18:05:44,515 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 18:05:44,916 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:05:44,919 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:05:49,951 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 18:06:10,360 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:06:10,361 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:06:10,394 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 18:15:45,495 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 18:15:45,883 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:15:45,884 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:15:50,920 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 18:16:11,359 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:16:11,361 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:16:11,390 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 18:25:46,491 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 18:25:46,492 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 18:25:46,493 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 18:25:46,864 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:25:46,866 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:25:51,901 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 18:26:12,295 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:26:12,297 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:26:12,325 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 18:35:47,382 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 18:35:47,778 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:35:47,780 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:35:52,814 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 18:36:13,212 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:36:13,214 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:36:13,247 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 18:45:48,348 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 18:45:48,349 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 18:45:48,350 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 18:45:48,731 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:45:48,732 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:45:53,765 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 18:46:14,197 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:46:14,199 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:46:14,227 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 18:55:49,328 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 18:55:49,746 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:55:49,748 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:55:54,791 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 18:56:15,173 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 18:56:15,175 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 18:56:15,204 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 19:05:50,272 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 19:05:50,273 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 19:05:50,274 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 19:05:50,670 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:05:50,672 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:05:55,712 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 19:06:16,109 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:06:16,110 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:06:16,135 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 19:15:51,236 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 19:15:51,703 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:15:51,704 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:15:56,735 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 19:16:17,147 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:16:17,147 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:16:17,174 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 19:25:52,275 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 19:25:52,277 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 19:25:52,282 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 19:25:52,672 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:25:52,674 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:25:57,712 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 19:26:18,127 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:26:18,128 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:26:18,154 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 19:35:53,255 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 19:35:53,646 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:35:53,647 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:35:58,682 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 19:36:19,095 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:36:19,096 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:36:19,123 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 19:45:54,207 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 19:45:54,208 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 19:45:54,209 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 19:45:54,596 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:45:54,598 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:45:59,631 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 19:46:19,984 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:46:19,985 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:46:20,012 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 19:55:55,113 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 19:55:55,509 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:55:55,511 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:56:00,542 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 19:56:20,916 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 19:56:20,918 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 19:56:20,950 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 20:05:55,952 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 20:05:55,953 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 20:05:55,954 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 20:05:56,358 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:05:56,359 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:06:01,395 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 20:06:21,803 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:06:21,804 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:06:21,837 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 20:15:56,882 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 20:15:57,267 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:15:57,269 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:16:02,302 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 20:16:22,666 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:16:22,666 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:16:22,693 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 20:25:57,794 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 20:25:57,795 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 20:25:57,796 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 20:25:58,172 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:25:58,174 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:26:03,214 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 20:26:23,629 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:26:23,631 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:26:23,660 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 20:35:58,760 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 20:35:59,139 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:35:59,141 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:36:04,178 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 20:36:24,570 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:36:24,571 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:36:24,600 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 20:45:59,632 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 20:45:59,633 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 20:45:59,634 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 20:46:00,021 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:46:00,023 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:46:05,056 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 20:46:25,581 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:46:25,583 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:46:25,611 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 20:56:00,632 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 20:56:01,018 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:56:01,020 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:56:06,055 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 20:56:26,463 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 20:56:26,465 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 20:56:26,492 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 21:06:01,593 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 21:06:01,594 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 21:06:01,595 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 21:06:01,997 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:06:01,999 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:06:07,039 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 21:06:27,402 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:06:27,403 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:06:27,434 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 21:16:02,535 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 21:16:02,947 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:16:02,948 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:16:07,981 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 21:16:28,374 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:16:28,376 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:16:28,405 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 21:26:03,505 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 21:26:03,507 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 21:26:03,507 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 21:26:03,897 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:26:03,899 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:26:08,939 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 21:26:29,330 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:26:29,332 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:26:29,359 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 21:36:04,452 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 21:36:04,794 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:36:04,796 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:36:09,833 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 21:36:30,228 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:36:30,230 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:36:30,259 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 21:46:05,360 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 21:46:05,361 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 21:46:05,362 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 21:46:05,749 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:46:05,751 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:46:10,784 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 21:46:31,177 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:46:31,179 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:46:31,211 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 21:56:06,311 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 21:56:06,689 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:56:06,691 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:56:11,725 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 21:56:32,141 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 21:56:32,143 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 21:56:32,175 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 22:06:07,182 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 22:06:07,183 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 22:06:07,184 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 22:06:07,567 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:06:07,569 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:06:12,605 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 22:06:33,003 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:06:33,004 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:06:33,035 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 22:16:08,136 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 22:16:08,495 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:16:08,496 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:16:13,530 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 22:16:33,964 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:16:33,965 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:16:33,993 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 22:26:09,058 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 22:26:09,059 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 22:26:09,060 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 22:26:09,551 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:26:09,552 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:26:14,584 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 22:26:35,006 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:26:35,008 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:26:35,040 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 22:36:10,141 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 22:36:10,519 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:36:10,521 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:36:15,553 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 22:36:35,955 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:36:35,957 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:36:35,990 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 22:46:11,091 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 22:46:11,092 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 22:46:11,093 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 22:46:11,464 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:46:11,466 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:46:16,501 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 22:46:36,892 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:46:36,895 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:46:36,927 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 22:56:12,028 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 22:56:12,403 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:56:12,405 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:56:17,438 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 22:56:37,814 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 22:56:37,816 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 22:56:37,847 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 23:06:12,948 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 23:06:12,949 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 23:06:12,950 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 23:06:13,310 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:06:13,312 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:06:18,350 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 23:06:38,750 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:06:38,751 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:06:38,778 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 23:16:13,879 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 23:16:14,259 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:16:14,262 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:16:19,292 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 23:16:39,739 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:16:39,741 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:16:39,772 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 23:26:14,832 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 23:26:14,833 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 23:26:14,834 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 23:26:15,209 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:26:15,211 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:26:20,244 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 23:26:40,610 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:26:40,613 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:26:40,647 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 23:36:15,748 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 23:36:16,122 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:36:16,124 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:36:21,157 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 23:36:41,533 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:36:41,535 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:36:41,563 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-17 23:46:16,664 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-17 23:46:16,665 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-17 23:46:16,666 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-17 23:46:17,026 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:46:17,028 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:46:22,061 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-17 23:46:42,691 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:46:42,693 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:46:42,720 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-17 23:56:17,821 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-17 23:56:18,192 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:56:18,194 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:56:23,228 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-17 23:56:43,622 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-17 23:56:43,624 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-17 23:56:43,651 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 00:06:18,662 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 00:06:18,663 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 00:06:18,669 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 00:06:19,029 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:06:19,031 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:06:24,064 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 00:06:44,469 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:06:44,471 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:06:44,501 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 00:16:19,602 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 00:16:19,981 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:16:19,983 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:16:25,017 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 00:16:45,399 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:16:45,401 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:16:45,433 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 00:26:20,452 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 00:26:20,453 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 00:26:20,454 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 00:26:20,839 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:26:20,841 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:26:25,874 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 00:26:46,269 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:26:46,271 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:26:46,299 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 00:36:21,400 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 00:36:21,750 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:36:21,752 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:36:26,786 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 00:36:47,556 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:36:47,558 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:36:47,587 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 00:46:22,688 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 00:46:22,689 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 00:46:22,690 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 00:46:23,043 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:46:23,045 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:46:28,078 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 00:46:48,494 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:46:48,496 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:46:48,530 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 00:56:23,631 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 00:56:24,027 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:56:24,029 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:56:29,062 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 00:56:49,478 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 00:56:49,480 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 00:56:49,507 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 01:06:24,608 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 01:06:24,609 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 01:06:24,610 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 01:06:24,960 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:06:24,962 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:06:29,995 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 01:06:50,388 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:06:50,390 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:06:50,416 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 01:16:25,517 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 01:16:25,865 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:16:25,867 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:16:30,901 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 01:16:51,304 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:16:51,306 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:16:51,339 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 01:26:26,440 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 01:26:26,441 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 01:26:26,446 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 01:26:26,792 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:26:26,794 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:26:31,831 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 01:26:52,198 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:26:52,200 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:26:52,229 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 01:36:27,252 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 01:36:27,631 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:36:27,633 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:36:32,672 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 01:36:53,065 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:36:53,067 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:36:53,096 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 01:46:28,197 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 01:46:28,198 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 01:46:28,199 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 01:46:28,574 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:46:28,576 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:46:33,608 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 01:46:54,005 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:46:54,007 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:46:54,035 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 01:56:29,136 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 01:56:29,511 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:56:29,514 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:56:34,542 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 01:56:54,919 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 01:56:54,921 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 01:56:54,948 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 02:06:30,026 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 02:06:30,028 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 02:06:30,028 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 02:06:31,931 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:06:31,935 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:06:37,296 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 02:06:59,218 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:06:59,222 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:06:59,599 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 02:16:34,652 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 02:16:35,020 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:16:35,022 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:16:40,057 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 02:17:00,465 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:17:00,467 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:17:00,494 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 02:26:35,503 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 02:26:35,504 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 02:26:35,505 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 02:26:35,864 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:26:35,866 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:26:40,901 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 02:27:01,304 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:27:01,306 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:27:01,332 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 02:36:36,433 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 02:36:36,786 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:36:36,788 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:36:41,821 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 02:37:02,184 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:37:02,186 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:37:02,216 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 02:46:37,316 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 02:46:37,318 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 02:46:37,319 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 02:46:37,678 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:46:37,680 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:46:42,714 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 02:47:03,120 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:47:03,122 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:47:03,150 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 02:56:38,251 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 02:56:38,626 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:56:38,628 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:56:43,666 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 02:57:04,069 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 02:57:04,071 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 02:57:04,101 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 03:06:39,202 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 03:06:39,203 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 03:06:39,207 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 03:06:39,605 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:06:39,607 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:06:44,651 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 03:07:05,037 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:07:05,039 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:07:05,068 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 03:16:40,169 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 03:16:40,562 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:16:40,564 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:16:45,604 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 03:17:06,015 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:17:06,017 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:17:06,044 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 03:26:41,145 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 03:26:41,146 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 03:26:41,147 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 03:26:41,525 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:26:41,527 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:26:46,561 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 03:27:06,933 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:27:06,935 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:27:06,962 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 03:36:42,063 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 03:36:42,457 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:36:42,459 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:36:47,493 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 03:37:07,910 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:37:07,912 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:37:07,945 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 03:46:43,046 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 03:46:43,047 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 03:46:43,052 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 03:46:43,424 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:46:43,426 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:46:48,459 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 03:47:08,827 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:47:08,829 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:47:08,857 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 03:56:43,958 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 03:56:44,334 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:56:44,336 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:56:49,368 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 03:57:09,830 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 03:57:09,833 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 03:57:09,865 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 04:06:44,942 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 04:06:44,943 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 04:06:44,944 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 04:06:45,321 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:06:45,323 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:06:50,360 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 04:07:10,798 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:07:10,800 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:07:10,828 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 04:16:45,922 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 04:16:46,299 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:16:46,301 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:16:51,334 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 04:17:11,732 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:17:11,734 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:17:11,762 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 04:26:46,863 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 04:26:46,864 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 04:26:46,865 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 04:26:47,231 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:26:47,233 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:26:52,273 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 04:27:12,787 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:27:12,789 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:27:12,817 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 04:36:47,918 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 04:36:48,276 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:36:48,278 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:36:53,314 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 04:37:13,701 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:37:13,703 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:37:13,730 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 04:46:48,830 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 04:46:48,832 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 04:46:48,833 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 04:46:49,214 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:46:49,216 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:46:54,254 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 04:47:14,657 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:47:14,659 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:47:14,687 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 04:56:49,712 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 04:56:50,102 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:56:50,105 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:56:55,136 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 04:57:15,516 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 04:57:15,518 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 04:57:15,549 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 05:06:50,650 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 05:06:50,651 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 05:06:50,652 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 05:06:51,030 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:06:51,032 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:06:56,066 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 05:07:16,462 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:07:16,464 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:07:16,497 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 05:16:51,598 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 05:16:51,984 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:16:51,987 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:16:57,025 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 05:17:17,417 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:17:17,419 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:17:17,452 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 05:26:52,553 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 05:26:52,554 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 05:26:52,555 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 05:26:52,938 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:26:52,940 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:26:57,978 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 05:27:18,393 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:27:18,395 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:27:18,425 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 05:36:53,526 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 05:36:53,863 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:36:53,865 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:36:58,901 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 05:37:19,310 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:37:19,312 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:37:19,341 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 05:46:54,441 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 05:46:54,443 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 05:46:54,444 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 05:46:54,792 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:46:54,795 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:46:59,826 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 05:47:20,215 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:47:20,217 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:47:20,245 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 05:56:55,346 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 05:56:55,730 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:56:55,732 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:57:00,770 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 05:57:21,158 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 05:57:21,160 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 05:57:21,191 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 06:06:56,292 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 06:06:56,293 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 06:06:56,294 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 06:06:56,670 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:06:56,672 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:07:01,706 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 06:07:22,091 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:07:22,093 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:07:22,127 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 06:16:57,227 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 06:16:57,600 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:16:57,602 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:17:02,636 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 06:17:23,042 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:17:23,044 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:17:23,075 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 06:26:58,176 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 06:26:58,177 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 06:26:58,178 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 06:26:58,549 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:26:58,551 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:27:03,584 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 06:27:23,986 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:27:23,988 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:27:24,015 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 06:36:59,116 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 06:36:59,517 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:36:59,519 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:37:04,552 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 06:37:24,962 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:37:24,964 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:37:24,992 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 06:47:00,093 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 06:47:00,095 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 06:47:00,095 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 06:47:00,466 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:47:00,468 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:47:05,501 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 06:47:25,875 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:47:25,877 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:47:25,905 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 06:57:01,006 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 06:57:01,371 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:57:01,373 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:57:06,404 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 06:57:26,793 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 06:57:26,795 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 06:57:26,823 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 07:07:01,924 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 07:07:01,925 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 07:07:01,926 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 07:07:02,291 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:07:02,293 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:07:07,327 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 07:07:27,699 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:07:27,701 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:07:27,727 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 07:17:02,828 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 07:17:03,220 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:17:03,222 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:17:08,255 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 07:17:28,667 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:17:28,669 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:17:28,697 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 07:27:03,702 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 07:27:03,703 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 07:27:03,704 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 07:27:04,099 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:27:04,101 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:27:09,136 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 07:27:29,551 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:27:29,553 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:27:29,581 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 07:37:04,682 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 07:37:05,044 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:37:05,046 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:37:10,079 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 07:37:30,519 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:37:30,521 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:37:30,554 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 07:47:05,655 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 07:47:05,656 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 07:47:05,657 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 07:47:06,047 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:47:06,049 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:47:11,083 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 07:47:31,496 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:47:31,498 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:47:31,526 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 07:57:06,627 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 07:57:07,098 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:57:07,100 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:57:12,132 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 07:57:32,555 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 07:57:32,557 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 07:57:32,585 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 08:07:07,638 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 08:07:07,639 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 08:07:07,640 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 08:07:08,009 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:07:08,012 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:07:13,046 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 08:07:33,439 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:07:33,441 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:07:33,469 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 08:17:08,570 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 08:17:08,946 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:17:08,948 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:17:13,982 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 08:17:34,410 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:17:34,412 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:17:34,439 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 08:27:09,530 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 08:27:09,531 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 08:27:09,532 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 08:27:09,920 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:27:09,922 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:27:14,954 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 08:27:35,347 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:27:35,349 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:27:35,378 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 08:37:10,480 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 08:37:10,889 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:37:10,891 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:37:15,922 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 08:37:36,378 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:37:36,380 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:37:36,408 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 08:47:11,509 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 08:47:11,510 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 08:47:11,511 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 08:47:11,941 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:47:11,943 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:47:16,982 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 08:47:37,377 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:47:37,379 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:47:37,409 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 08:57:12,510 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 08:57:12,860 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:57:12,862 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:57:17,894 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 08:57:38,289 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 08:57:38,291 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 08:57:38,320 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 09:07:13,421 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 09:07:13,422 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 09:07:13,423 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 09:07:13,816 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:07:13,818 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:07:18,856 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 09:07:39,278 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:07:39,280 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:07:39,324 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 09:17:14,425 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 09:17:14,788 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:17:14,790 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:17:19,827 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 09:17:40,600 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:17:40,602 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:17:40,634 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 09:27:15,735 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 09:27:15,736 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 09:27:15,737 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 09:27:16,270 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:27:16,272 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:27:21,311 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 09:27:42,116 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:27:42,118 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:27:42,146 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 09:37:17,246 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 09:37:17,784 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:37:17,786 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:37:22,819 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 09:37:43,371 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:37:43,373 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:37:43,402 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 09:47:18,502 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 09:47:18,504 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 09:47:18,504 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 09:47:19,039 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:47:19,041 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:47:24,075 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 09:47:44,729 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:47:44,731 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:47:44,758 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 09:57:19,859 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 09:57:20,403 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:57:20,406 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:57:25,439 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 09:57:46,007 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 09:57:46,009 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 09:57:46,036 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 10:07:21,137 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 10:07:21,138 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 10:07:21,139 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 10:07:21,788 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:07:21,790 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:07:26,824 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 10:07:47,372 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:07:47,375 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:07:47,403 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 10:17:22,504 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 10:17:26,053 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:17:26,055 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:17:31,088 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 10:17:51,707 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:17:51,709 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:17:51,742 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 10:27:26,843 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 10:27:26,844 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 10:27:26,845 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 10:27:27,402 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:27:27,404 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:27:32,440 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 10:27:52,979 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:27:52,981 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:27:53,015 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 10:37:28,116 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 10:37:28,641 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:37:28,643 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:37:33,677 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 10:37:54,256 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:37:54,258 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:37:54,287 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 10:47:29,388 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 10:47:29,389 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 10:47:29,390 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 10:47:29,931 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:47:29,933 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:47:34,972 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 10:47:55,505 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:47:55,507 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:47:55,536 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 10:57:30,637 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 10:57:31,176 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:57:31,178 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:57:36,215 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 10:57:56,766 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 10:57:56,768 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 10:57:56,801 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 11:07:31,843 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 11:07:31,844 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 11:07:31,845 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 11:07:32,488 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:07:32,490 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:07:37,526 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 11:07:58,561 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:07:58,564 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:07:58,597 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 11:17:33,698 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 11:17:34,245 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:17:34,247 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:17:39,279 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 11:17:59,929 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:17:59,931 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:17:59,958 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 11:27:35,059 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 11:27:35,060 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 11:27:35,061 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 11:27:35,707 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:27:35,710 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:27:40,742 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 11:28:01,305 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:28:01,311 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:28:01,340 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 11:37:36,440 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 11:37:37,084 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:37:37,090 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:37:42,123 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 11:38:02,696 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:38:02,698 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:38:02,725 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 11:47:37,826 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 11:47:37,827 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 11:47:37,828 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 11:47:38,374 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:47:38,376 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:47:43,409 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 11:48:03,949 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:48:03,951 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:48:03,979 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 11:57:38,989 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 11:57:39,538 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:57:39,540 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:57:44,572 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 11:58:05,152 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 11:58:05,154 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 11:58:05,183 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 12:07:40,284 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 12:07:40,285 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 12:07:40,286 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 12:07:40,677 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:07:40,680 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:07:45,712 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 12:08:06,089 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:08:06,091 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:08:06,118 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 12:17:41,219 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 12:17:41,718 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:17:41,720 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:17:46,756 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 12:18:07,135 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:18:07,137 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:18:07,163 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 12:27:42,264 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 12:27:42,265 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 12:27:42,266 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 12:27:42,686 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:27:42,689 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:27:47,722 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 12:28:08,260 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:28:08,262 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:28:08,290 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 12:37:43,391 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 12:37:44,017 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:37:44,019 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:37:49,052 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 12:38:09,637 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:38:09,639 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:38:09,670 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 12:47:44,771 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 12:47:44,773 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 12:47:44,774 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 12:47:45,420 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:47:45,422 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:47:50,459 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 12:48:11,027 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:48:11,029 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:48:11,061 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 12:57:46,162 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 12:57:46,737 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:57:46,740 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:57:51,772 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 12:58:12,468 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 12:58:12,470 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 12:58:12,497 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 13:07:47,598 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 13:07:47,599 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 13:07:47,600 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 13:07:48,147 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 13:07:48,149 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 13:07:53,183 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 13:08:13,857 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 13:08:13,859 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 13:08:13,888 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 13:17:48,892 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 13:17:49,618 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 13:17:49,620 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 13:17:54,651 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 13:18:15,484 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud Response OK
+2020-03-18 13:18:15,486 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Checking and uploading any data files for DuctRelayControl
+2020-03-18 13:18:15,514 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 13:17:17,000 - WLL01227 - INFO - 
+
+ *** Logger configured! Starting mWLL *** 
+
+
+2020-03-18 13:17:17,003 - WLL01227 - INFO - DuctRelayControl-Entered DuctRelayControl, setting up storage
+2020-03-18 13:17:17,003 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-init LowFrequencyStorage for DuctRelayControl, initializing variables
+2020-03-18 13:17:17,004 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Initializing push to cloud
+2020-03-18 13:17:17,005 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud configuration read
+2020-03-18 13:17:17,006 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Storage initialization done for DuctRelayControl
+2020-03-18 13:17:17,006 - WLL01227 - INFO - DuctRelayControl-Initializing sensor
+2020-03-18 13:17:17,007 - WLL01227 - INFO - DuctRelayControl-Entered initialize_sensor
+2020-03-18 13:17:17,009 - WLL01227 - INFO - DuctRelayControl-Entered start_sensor
+2020-03-18 13:17:17,010 - WLL01227 - INFO - DuctRelayControl-Starting sensor thread
+2020-03-18 13:17:17,011 - WLL01227 - INFO - DuctRelayControl-Entered extract value, keep_extracting=True
+2020-03-18 13:17:17,012 - WLL01227 - INFO - DuctRelayControl-Thread started
+2020-03-18 13:17:17,012 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 13:17:17,012 - WLL01227 - INFO - Started sensors!
+2020-03-18 13:17:17,013 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 13:17:17,015 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:17:22,032 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 13:17:42,055 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:17:42,061 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 13:27:17,163 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 13:27:17,165 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:27:22,177 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 13:27:42,200 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:27:42,203 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 13:17:17,172 - WLL01227 - INFO - 
+
+ *** Logger configured! Starting mWLL *** 
+
+
+2020-03-18 13:17:17,175 - WLL01227 - INFO - DuctRelayControl-Entered DuctRelayControl, setting up storage
+2020-03-18 13:17:17,176 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-init LowFrequencyStorage for DuctRelayControl, initializing variables
+2020-03-18 13:17:17,176 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Initializing push to cloud
+2020-03-18 13:17:17,177 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud configuration read
+2020-03-18 13:17:17,178 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Storage initialization done for DuctRelayControl
+2020-03-18 13:17:17,178 - WLL01227 - INFO - DuctRelayControl-Initializing sensor
+2020-03-18 13:17:17,179 - WLL01227 - INFO - DuctRelayControl-Entered initialize_sensor
+2020-03-18 13:17:17,183 - WLL01227 - INFO - DuctRelayControl-Entered start_sensor
+2020-03-18 13:17:17,183 - WLL01227 - INFO - DuctRelayControl-Starting sensor thread
+2020-03-18 13:17:17,184 - WLL01227 - INFO - DuctRelayControl-Entered extract value, keep_extracting=True
+2020-03-18 13:17:17,185 - WLL01227 - INFO - DuctRelayControl-Thread started
+2020-03-18 13:17:17,185 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 13:17:17,186 - WLL01227 - INFO - Started sensors!
+2020-03-18 13:17:17,186 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 13:17:17,188 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:17:22,197 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 13:17:42,214 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:17:42,217 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 13:27:17,318 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 13:27:17,321 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:27:22,329 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 13:27:42,352 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:27:42,355 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 13:37:17,423 - WLL01227 - INFO - DuctRelayControl-End loop
+2020-03-18 13:37:17,424 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 13:37:17,425 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 13:37:17,427 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:37:22,438 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 13:37:42,461 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:37:42,465 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed
+2020-03-18 13:47:17,566 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening Pinch
+2020-03-18 13:47:17,569 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:47:22,577 - WLL01227 - INFO - DuctRelayControl-Begin Ball Switch: Ball Changing / Pinch Open
+2020-03-18 13:47:42,599 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:47:42,603 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch Closed
+2020-03-18 13:17:17,913 - WLL01227 - INFO - 
+
+ *** Logger configured! Starting mWLL *** 
+
+
+2020-03-18 13:17:17,915 - WLL01227 - INFO - DuctRelayControl-Entered DuctRelayControl, setting up storage
+2020-03-18 13:17:17,916 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-init LowFrequencyStorage for DuctRelayControl, initializing variables
+2020-03-18 13:17:17,916 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Initializing push to cloud
+2020-03-18 13:17:17,918 - WLL01227 - INFO - DuctRelayControl.PushToCloud-Cloud configuration read
+2020-03-18 13:17:17,918 - WLL01227 - INFO - DuctRelayControl.Storages.SensorStorage-Storage initialization done for DuctRelayControl
+2020-03-18 13:17:17,919 - WLL01227 - INFO - DuctRelayControl-Initializing sensor
+2020-03-18 13:17:17,919 - WLL01227 - INFO - DuctRelayControl-Entered initialize_sensor
+2020-03-18 13:17:17,921 - WLL01227 - INFO - DuctRelayControl-Entered start_sensor
+2020-03-18 13:17:17,922 - WLL01227 - INFO - DuctRelayControl-Starting sensor thread
+2020-03-18 13:17:17,924 - WLL01227 - INFO - DuctRelayControl-Entered extract value, keep_extracting=True
+2020-03-18 13:17:17,925 - WLL01227 - INFO - DuctRelayControl-Thread started
+2020-03-18 13:17:17,925 - WLL01227 - INFO - DuctRelayControl-Loop Starts
+2020-03-18 13:17:17,925 - WLL01227 - INFO - Started sensors!
+2020-03-18 13:17:17,926 - WLL01227 - INFO - DuctRelayControl-Begin Duct Switch: Ball Open / Opening  Pinch Valve
+2020-03-18 13:17:17,928 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:17:22,936 - WLL01227 - INFO - DuctRelayControl-Begin Ball Valve Switch: Ball changing/ Pinch open
+2020-03-18 13:17:42,959 - WLL01227 - WARNING - DuctRelayControl.Storages.SensorStorage-No Internet connectivity detected. Saving payload to disk.
+2020-03-18 13:17:42,966 - WLL01227 - INFO - DuctRelayControl-Duct switch complete: Ball Closed / Pinch closed

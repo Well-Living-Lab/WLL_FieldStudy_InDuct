@@ -1,0 +1,28 @@
+{
+  "DeviceId": "WLL01474",
+  "Sensors": [
+    {
+      "SensorId": "CO2",
+      "ClassName": "GroveCO2",
+      "ConfigLocation": "/Configuration/co2.cfg"
+    },
+    {
+      "SensorId": "THP",
+      "ClassName": "BME_TempPresHum",
+      "ConfigLocation": "/Configuration/thp.cfg"
+    },
+    {
+      "SensorId": "nanolambda",
+      "ClassName": "NanoLambda",
+      "ConfigLocation": "/Configuration/nanolambda.cfg"
+    },
+    {
+      "SensorId": "Dylos",
+      "ClassName": "Dylos",
+      "ConfigLocation": "/Configuration/dylos.cfg"
+    }
+  ],
+  "logfile": "/logs/all_logs.log",
+  "storage": "/data/",
+  "stopFile": "/Configuration/stop"
+}

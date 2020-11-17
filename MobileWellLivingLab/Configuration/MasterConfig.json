@@ -1,0 +1,12 @@
+{
+  "DeviceId": "WLL01227",
+  "Sensors": [
+    {
+      "SensorId": "DuctRelayControl",
+      "ClassName": "DuctRelay_Control",
+      "ConfigLocation": "/Configuration/DuctRelay_Control.cfg"
+    } ],
+  "logfile": "/logs/all_logs.log",
+  "storage": "/data/",
+  "stopFile": "/Configuration/stop"
+}
